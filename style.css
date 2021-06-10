@@ -127,3 +127,12 @@ body {
     text-decoration: none;
     color: #000;
 }
+
+
+
+.block-footer p {
+    clear: both;
+    text-align: center;
+    font-size: 15px;
+    margin: 50px 0 20px;
+}
